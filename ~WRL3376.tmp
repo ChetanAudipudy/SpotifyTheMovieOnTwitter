@@ -1,0 +1,23 @@
+LIRI Bot
+
+
+Liri bot is a node application which can perform 4 different functions. You can:
+* Search for information about a song from Spotify
+* Search for information about a movie
+* View the last 20 tweets from my twitter
+* Run any of the above functions from a text file.
+
+Usage
+
+Spotify:
+To search for information about a song use this command in your terminal-
+$ node liri.js spotify-this-song <name of song here>
+
+Movie:
+To search for information about a movie use this command in your terminal-
+$ node liri.js movie-this <name of movie here>
+
+Twitter:
+To view the last 20 tweets from my twitter use this command in your terminal-
+$ node liri.js my-tweets
+
