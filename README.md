@@ -4,6 +4,7 @@ Liri bot is a node application which can perform 4 different functions. You can:
 * Search for information about a movie
 * View the last 20 tweets from my twitter
 * Run any of the above functions from a text file.
+
 It logs the output on the console and into a log.txt file with the timestamp.
 
 ## Usage
