@@ -1,0 +1,340 @@
+[2018-02-16T13:33:36.422] [ALL] default - Artist(s): Night Lovell
+[2018-02-16T13:33:36.434] [ALL] default - Song name: Dark Light
+[2018-02-16T13:33:36.435] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/81290c3e8d01ef2af2d0b863b29f54c4e095a075?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T13:33:36.437] [ALL] default - Album: Concept Vague
+
+[2018-02-16T13:56:16.460] [ALL] default - Error occurred: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T13:56:16.663] [ALL] default - { tracks: 
+   { href: 'https://api.spotify.com/v1/search?query=The+Sign+Ace+of+Base&type=track&offset=0&limit=20',
+     items: 
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ],
+     limit: 20,
+     next: 'https://api.spotify.com/v1/search?query=The+Sign+Ace+of+Base&type=track&offset=20&limit=20',
+     offset: 0,
+     previous: null,
+     total: 116 } }
+[2018-02-16T13:56:56.116] [ALL] default - Error occurred: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T13:56:56.336] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T13:56:56.343] [ALL] default - Song name: The Sign
+[2018-02-16T13:56:56.348] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T13:56:56.355] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T13:58:21.918] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T13:58:27.807] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T13:58:27.810] [ALL] default - Song name: The Sign
+[2018-02-16T13:58:27.812] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T13:58:27.826] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T13:58:49.103] [ALL] default - Artist(s): Night Lovell
+[2018-02-16T13:58:49.116] [ALL] default - Song name: Dark Light
+[2018-02-16T13:58:49.118] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/81290c3e8d01ef2af2d0b863b29f54c4e095a075?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T13:58:49.120] [ALL] default - Album: Concept Vague
+
+[2018-02-16T13:59:24.121] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T13:59:24.314] [ALL] default - Artist(s): Ty Dolla $ign
+[2018-02-16T13:59:24.318] [ALL] default - Song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+[2018-02-16T13:59:24.320] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T13:59:24.324] [ALL] default - Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+[2018-02-16T13:59:45.522] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T13:59:45.721] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T13:59:45.725] [ALL] default - Song name: The Sign
+[2018-02-16T13:59:45.729] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T13:59:45.732] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T14:01:26.542] [ALL] default - Title: Mr. Nobody
+[2018-02-16T14:01:26.551] [ALL] default - Release Year: 2009
+[2018-02-16T14:01:26.553] [ALL] default - IMDB Rating: 7.9
+[2018-02-16T14:01:26.553] [ALL] default - Rotten Tomatoes Rating: 66%
+[2018-02-16T14:01:26.554] [ALL] default - Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+[2018-02-16T14:01:26.555] [ALL] default - Language: English, Mohawk
+[2018-02-16T14:01:26.555] [ALL] default - Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+[2018-02-16T14:01:26.556] [ALL] default - Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+[2018-02-16T14:01:41.530] [ALL] default - Title: Black
+[2018-02-16T14:01:41.539] [ALL] default - Release Year: 2005
+[2018-02-16T14:01:41.542] [ALL] default - IMDB Rating: 8.2
+[2018-02-16T14:01:41.543] [ALL] default - Rotten Tomatoes Rating: 67%
+[2018-02-16T14:01:41.543] [ALL] default - Country where movie was produced: India
+[2018-02-16T14:01:41.544] [ALL] default - Language: Hindi, English
+[2018-02-16T14:01:41.545] [ALL] default - Plot: The cathartic tale of a young woman who can't see, hear or talk and the teacher who brings a ray of light into her dark world.
+[2018-02-16T14:01:41.545] [ALL] default - Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+[2018-02-16T14:02:37.700] [ALL] default - Title: undefined
+[2018-02-16T14:03:01.250] [ALL] default - Title: Mr. Nobody
+[2018-02-16T14:03:01.264] [ALL] default - Release Year: 2009
+[2018-02-16T14:03:01.265] [ALL] default - IMDB Rating: 7.9
+[2018-02-16T14:03:01.266] [ALL] default - Rotten Tomatoes Rating: 66%
+[2018-02-16T14:03:01.268] [ALL] default - Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+[2018-02-16T14:03:01.270] [ALL] default - Language: English, Mohawk
+[2018-02-16T14:03:01.271] [ALL] default - Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+[2018-02-16T14:03:01.274] [ALL] default - Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+[2018-02-16T14:03:32.556] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:03:32.714] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T14:03:32.732] [ALL] default - Song name: The Sign
+[2018-02-16T14:03:32.736] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T14:03:32.741] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T14:03:45.270] [ALL] default - Artist(s): Fall Out Boy
+[2018-02-16T14:03:45.288] [ALL] default - Song name: My Songs Know What You Did In The Dark (Light Em Up)
+[2018-02-16T14:03:45.293] [ALL] default - Preview link: null
+[2018-02-16T14:03:45.296] [ALL] default - Album: Save Rock And Roll
+
+[2018-02-16T14:04:07.725] [ALL] default - Artist(s): Eminem
+[2018-02-16T14:04:07.737] [ALL] default - Song name: The Real Slim Shady
+[2018-02-16T14:04:07.739] [ALL] default - Preview link: null
+[2018-02-16T14:04:07.743] [ALL] default - Album: The Marshall Mathers LP
+
+[2018-02-16T14:05:52.443] [ALL] default - Artist(s): Eminem
+[2018-02-16T14:05:52.460] [ALL] default - Song name: The Real Slim Shady
+[2018-02-16T14:05:52.463] [ALL] default - Preview link: null
+[2018-02-16T14:05:52.466] [ALL] default - Album: The Marshall Mathers LP
+
+[2018-02-16T14:05:57.279] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:05:57.437] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T14:05:57.443] [ALL] default - Song name: The Sign
+[2018-02-16T14:05:57.448] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T14:05:57.456] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T14:14:51.183] [ALL] default - Title: Black
+[2018-02-16T14:14:51.198] [ALL] default - Release Year: 2005
+[2018-02-16T14:14:51.202] [ALL] default - IMDB Rating: 8.2
+[2018-02-16T14:14:51.204] [ALL] default - Rotten Tomatoes Rating: 67%
+[2018-02-16T14:14:51.207] [ALL] default - Country where movie was produced: India
+[2018-02-16T14:14:51.207] [ALL] default - Language: Hindi, English
+[2018-02-16T14:14:51.210] [ALL] default - Plot: The cathartic tale of a young woman who can't see, hear or talk and the teacher who brings a ray of light into her dark world.
+[2018-02-16T14:14:51.215] [ALL] default - Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+[2018-02-16T14:15:16.485] [ALL] default - Title: Black
+[2018-02-16T14:15:16.489] [ALL] default - Release Year: 2005
+[2018-02-16T14:15:16.490] [ALL] default - IMDB Rating: 8.2
+[2018-02-16T14:15:16.491] [ALL] default - Rotten Tomatoes Rating: 67%
+[2018-02-16T14:15:16.492] [ALL] default - Country where movie was produced: India
+[2018-02-16T14:15:16.492] [ALL] default - Language: Hindi, English
+[2018-02-16T14:15:16.493] [ALL] default - Plot: The cathartic tale of a young woman who can't see, hear or talk and the teacher who brings a ray of light into her dark world.
+[2018-02-16T14:15:16.494] [ALL] default - Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+[2018-02-16T14:15:45.136] [ALL] default - Title: Black Panther
+[2018-02-16T14:15:45.146] [ALL] default - Release Year: 2018
+[2018-02-16T14:15:45.147] [ALL] default - IMDB Rating: 6.7
+[2018-02-16T14:15:45.149] [ALL] default - Rotten Tomatoes Rating: 97%
+[2018-02-16T14:15:45.151] [ALL] default - Country where movie was produced: USA
+[2018-02-16T14:15:45.154] [ALL] default - Language: English
+[2018-02-16T14:15:45.155] [ALL] default - Plot: T'Challa, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king.
+[2018-02-16T14:15:45.158] [ALL] default - Actors: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+
+[2018-02-16T14:17:18.055] [ALL] default - Title: Mr. Nobody
+[2018-02-16T14:17:18.059] [ALL] default - Release Year: 2009
+[2018-02-16T14:17:18.061] [ALL] default - IMDB Rating: 7.9
+[2018-02-16T14:17:18.061] [ALL] default - Rotten Tomatoes Rating: 66%
+[2018-02-16T14:17:18.062] [ALL] default - Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+[2018-02-16T14:17:18.063] [ALL] default - Language: English, Mohawk
+[2018-02-16T14:17:18.063] [ALL] default - Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+[2018-02-16T14:17:18.064] [ALL] default - Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+[2018-02-16T14:48:34.556] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:49:40.313] [ALL] default - Artist(s): Jeremy Soule
+[2018-02-16T14:49:40.326] [ALL] default - Song name: Far Horizons
+[2018-02-16T14:49:40.329] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/e4413997637956afd074047f281d64205a4287d6?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T14:49:40.333] [ALL] default - Album: The Elder Scrolls V: Skyrim: Original Game Soundtrack
+
+[2018-02-16T14:53:59.998] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:55:04.142] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:57:16.852] [ALL] default - Artist(s): Neil Diamond
+[2018-02-16T14:57:16.867] [ALL] default - Song name: Sweet Caroline
+[2018-02-16T14:57:16.872] [ALL] default - Preview link: null
+[2018-02-16T14:57:16.876] [ALL] default - Album: Sweet Caroline
+
+[2018-02-16T14:57:51.563] [ALL] default - Artist(s): Jeremy Soule
+[2018-02-16T14:57:51.581] [ALL] default - Song name: Far Horizons
+[2018-02-16T14:57:51.585] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/e4413997637956afd074047f281d64205a4287d6?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T14:57:51.590] [ALL] default - Album: The Elder Scrolls V: Skyrim: Original Game Soundtrack
+
+[2018-02-16T14:58:18.181] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:58:27.792] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T14:58:39.576] [ALL] default - Artist(s): Jeremy Soule
+[2018-02-16T14:58:39.591] [ALL] default - Song name: Far Horizons
+[2018-02-16T14:58:39.593] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/e4413997637956afd074047f281d64205a4287d6?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T14:58:39.596] [ALL] default - Album: The Elder Scrolls V: Skyrim: Original Game Soundtrack
+
+[2018-02-16T14:59:20.962] [ALL] default - Artist(s): Xavier Wulf
+[2018-02-16T14:59:20.971] [ALL] default - Song name: Tortuga
+[2018-02-16T14:59:20.973] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/20ae9d0156fc52139db057705dbe96b179d14fe2?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T14:59:20.975] [ALL] default - Album: Tundra Boy Season One
+
+[2018-02-16T14:59:54.682] [ALL] default - Input is invalid.
+[2018-02-16T15:00:20.149] [ALL] default - Title: The Godfather
+[2018-02-16T15:00:20.158] [ALL] default - Release Year: 1972
+[2018-02-16T15:00:20.159] [ALL] default - IMDB Rating: 9.2
+[2018-02-16T15:00:20.160] [ALL] default - Rotten Tomatoes Rating: 99%
+[2018-02-16T15:00:20.162] [ALL] default - Country where movie was produced: USA
+[2018-02-16T15:00:20.163] [ALL] default - Language: English, Italian, Latin
+[2018-02-16T15:00:20.165] [ALL] default - Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+[2018-02-16T15:00:20.169] [ALL] default - Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+
+[2018-02-16T15:00:43.315] [ALL] default - Artist(s): Jeremy Soule
+[2018-02-16T15:00:43.330] [ALL] default - Song name: Far Horizons
+[2018-02-16T15:00:43.334] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/e4413997637956afd074047f281d64205a4287d6?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:00:43.339] [ALL] default - Album: The Elder Scrolls V: Skyrim: Original Game Soundtrack
+
+[2018-02-16T15:01:02.918] [ALL] default - Tweet: 1) One day or day one? You decide.
+[2018-02-16T15:01:02.934] [ALL] default - Created at : Tue Feb 13 21:54:27 +0000 2018
+[2018-02-16T15:01:02.935] [ALL] default - -----------
+
+[2018-02-16T15:01:02.938] [ALL] default - Tweet: 2)  “The way to get started is to quit talking and begin doing.” -Walt Disney
+[2018-02-16T15:01:02.941] [ALL] default - Created at : Tue Feb 13 21:55:41 +0000 2018
+[2018-02-16T15:01:02.943] [ALL] default - -----------
+
+[2018-02-16T15:01:02.944] [ALL] default - Tweet: 3)  If you want to achieve greatness stop asking for permission.
+[2018-02-16T15:01:02.946] [ALL] default - Created at : Tue Feb 13 21:56:23 +0000 2018
+[2018-02-16T15:01:02.949] [ALL] default - -----------
+
+[2018-02-16T15:01:02.953] [ALL] default - Tweet: 4) Things work out best for those who make the best of how things work out. ~John Wooden
+[2018-02-16T15:01:02.955] [ALL] default - Created at : Tue Feb 13 21:56:44 +0000 2018
+[2018-02-16T15:01:02.957] [ALL] default - -----------
+
+[2018-02-16T15:01:02.960] [ALL] default - Tweet: 5)  If you are not willing to risk the usual you will have to settle for the ordinary. ~Jim Rohn
+[2018-02-16T15:01:02.963] [ALL] default - Created at : Tue Feb 13 21:57:06 +0000 2018
+[2018-02-16T15:01:02.966] [ALL] default - -----------
+
+[2018-02-16T15:01:02.968] [ALL] default - Tweet: 6) All our dreams can come true if we have the courage to pursue them. ~Walt Disney
+[2018-02-16T15:01:02.970] [ALL] default - Created at : Tue Feb 13 21:57:28 +0000 2018
+[2018-02-16T15:01:02.971] [ALL] default - -----------
+
+[2018-02-16T15:01:02.974] [ALL] default - Tweet: 7) Good things come to people who wait, but better things come to those who go out and get them.
+[2018-02-16T15:01:02.976] [ALL] default - Created at : Tue Feb 13 21:57:56 +0000 2018
+[2018-02-16T15:01:02.977] [ALL] default - -----------
+
+[2018-02-16T15:01:02.980] [ALL] default - Tweet: 8) If you do what you always did, you will get what you always got.
+[2018-02-16T15:01:02.983] [ALL] default - Created at : Tue Feb 13 21:58:13 +0000 2018
+[2018-02-16T15:01:02.985] [ALL] default - -----------
+
+[2018-02-16T15:01:02.987] [ALL] default - Tweet: 9) Success is walking from failure to failure with no loss of enthusiasm. ~Winston Churchill
+[2018-02-16T15:01:02.988] [ALL] default - Created at : Tue Feb 13 21:58:28 +0000 2018
+[2018-02-16T15:01:02.991] [ALL] default - -----------
+
+[2018-02-16T15:01:02.994] [ALL] default - Tweet: 10) Just when the caterpillar thought the world was ending, he turned into a butterfly.
+[2018-02-16T15:01:02.996] [ALL] default - Created at : Tue Feb 13 21:58:46 +0000 2018
+[2018-02-16T15:01:02.996] [ALL] default - -----------
+
+[2018-02-16T15:01:02.998] [ALL] default - Tweet: 11) Successful entrepreneurs are givers and not takers of positive energy.
+[2018-02-16T15:01:03.002] [ALL] default - Created at : Tue Feb 13 21:59:00 +0000 2018
+[2018-02-16T15:01:03.003] [ALL] default - -----------
+
+[2018-02-16T15:01:03.007] [ALL] default - Tweet: 12)Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them. ~Vaibhav Shah
+[2018-02-16T15:01:03.008] [ALL] default - Created at : Tue Feb 13 21:59:17 +0000 2018
+[2018-02-16T15:01:03.010] [ALL] default - -----------
+
+[2018-02-16T15:01:03.012] [ALL] default - Tweet: 13) Opportunities don’t happen, you create them. ~Chris Grosser
+[2018-02-16T15:01:03.015] [ALL] default - Created at : Tue Feb 13 21:59:44 +0000 2018
+[2018-02-16T15:01:03.017] [ALL] default - -----------
+
+[2018-02-16T15:01:03.018] [ALL] default - Tweet: 14) Try not to become a person of success, but rather try to become a person of value. ~Albert Einstein
+[2018-02-16T15:01:03.020] [ALL] default - Created at : Tue Feb 13 22:00:00 +0000 2018
+[2018-02-16T15:01:03.023] [ALL] default - -----------
+
+[2018-02-16T15:01:03.025] [ALL] default - Tweet: 15) Great minds discuss ideas; average minds discuss events; small minds discuss people. ~Eleanor Roosevelt
+[2018-02-16T15:01:03.027] [ALL] default - Created at : Tue Feb 13 22:00:17 +0000 2018
+[2018-02-16T15:01:03.027] [ALL] default - -----------
+
+[2018-02-16T15:01:03.028] [ALL] default - Tweet: 16) A successful man is one who can lay a firm foundation with the bricks others have thrown at him. ~David Brinkley
+[2018-02-16T15:01:03.032] [ALL] default - Created at : Tue Feb 13 22:00:40 +0000 2018
+[2018-02-16T15:01:03.035] [ALL] default - -----------
+
+[2018-02-16T15:01:03.038] [ALL] default - Tweet: 17) No one can make you feel inferior without your consent. ~Eleanor Roosevelt
+[2018-02-16T15:01:03.039] [ALL] default - Created at : Tue Feb 13 22:00:57 +0000 2018
+[2018-02-16T15:01:03.041] [ALL] default - -----------
+
+[2018-02-16T15:01:03.044] [ALL] default - Tweet: 18) The ones who are crazy enough to think they can change the world, are the ones that do. ~Anonymous
+[2018-02-16T15:01:03.046] [ALL] default - Created at : Tue Feb 13 22:01:25 +0000 2018
+[2018-02-16T15:01:03.048] [ALL] default - -----------
+
+[2018-02-16T15:01:03.050] [ALL] default - Tweet: 19) Don’t raise your voice, improve your argument. ~Anonymous
+[2018-02-16T15:01:03.051] [ALL] default - Created at : Tue Feb 13 22:01:40 +0000 2018
+[2018-02-16T15:01:03.054] [ALL] default - -----------
+
+[2018-02-16T15:01:03.056] [ALL] default - Tweet: 20) The meaning of life is to find your gift. The purpose of life is to give it away. ~Anonymous
+[2018-02-16T15:01:03.057] [ALL] default - Created at : Tue Feb 13 22:01:59 +0000 2018
+[2018-02-16T15:01:03.057] [ALL] default - -----------
+
+[2018-02-16T15:04:11.690] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T15:04:12.250] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:04:12.253] [ALL] default - Song name: The Sign
+[2018-02-16T15:04:12.255] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:04:12.257] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:04:35.320] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T15:04:35.802] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:04:35.806] [ALL] default - Song name: The Sign
+[2018-02-16T15:04:35.809] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:04:35.811] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:05:12.715] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T15:05:13.335] [ALL] default - Artist(s): [object Object]
+[2018-02-16T15:05:13.339] [ALL] default - Song name: The Sign
+[2018-02-16T15:05:13.341] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:05:13.345] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:06:11.707] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T15:06:13.588] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:06:13.594] [ALL] default - Song name: The Sign
+[2018-02-16T15:06:13.596] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:06:13.603] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:12:43.362] [ALL] default - Artist(s): Ty Dolla $ign
+[2018-02-16T15:12:43.377] [ALL] default - Song name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+[2018-02-16T15:12:43.379] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:12:43.381] [ALL] default - Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+[2018-02-16T15:13:01.101] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:13:01.114] [ALL] default - Song name: The Sign
+[2018-02-16T15:13:01.116] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:13:01.121] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:14:20.188] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T15:14:23.449] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:14:23.454] [ALL] default - Song name: The Sign
+[2018-02-16T15:14:23.459] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:14:23.465] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:16:07.018] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:16:07.029] [ALL] default - Song name: The Sign
+[2018-02-16T15:16:07.032] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:16:07.035] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:22:19.530] [ALL] default - Artist(s): Ace of Base
+[2018-02-16T15:22:19.547] [ALL] default - Song name: The Sign
+[2018-02-16T15:22:19.551] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:22:19.554] [ALL] default - Album: The Sign (US Album) [Remastered]
+
+[2018-02-16T15:22:43.115] [ALL] default - Artist(s): Jeremy Soule
+[2018-02-16T15:22:43.134] [ALL] default - Song name: Far Horizons
+[2018-02-16T15:22:43.135] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/e4413997637956afd074047f281d64205a4287d6?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:22:43.140] [ALL] default - Album: The Elder Scrolls V: Skyrim: Original Game Soundtrack
+
+[2018-02-16T15:25:15.534] [ALL] default - Error: TypeError: Cannot read property 'artists' of undefined
+[2018-02-16T15:25:31.709] [ALL] default - Artist(s): Jeremy Soule
+[2018-02-16T15:25:31.718] [ALL] default - Song name: Far Horizons
+[2018-02-16T15:25:31.719] [ALL] default - Preview link: https://p.scdn.co/mp3-preview/e4413997637956afd074047f281d64205a4287d6?cid=6ae7306ed21c447e9855ead19f70c87c
+[2018-02-16T15:25:31.721] [ALL] default - Album: The Elder Scrolls V: Skyrim: Original Game Soundtrack
+
