@@ -13,14 +13,18 @@ It logs the output on the console and into a log.txt file with the timestamp.
 To search for information about a song use this command in your terminal-
 
     $ node liri.js spotify-this-song <name of song here>
+    
+ If no song is specified it will default to The Sign by Ace of Base.
 
 ### Movie:
 To search for information about a movie use this command in your terminal-
 
     $ node liri.js movie-this <name of movie here>
+    
+If no movie is specified it will default to Mr.Robot.
 
 ### Twitter:
-To view the last 20 tweets from my twitter use this command in your terminal-
+To view the last 20 tweets from [my twitter](https://twitter.com/LiriChetan) use this command in your terminal-
 
     $ node liri.js my-tweets
 
@@ -32,13 +36,13 @@ To run the command present in the random.txt file use this command in your termi
 
 ## Under the hood
 
-This bot uses various npm packages to perform the various tasks.
+This bot uses npm packages to perform the various tasks.
 * [Spotify](https://www.npmjs.com/package/node-spotify-api) - Spotify search 
 * [OMDB api](http://www.omdbapi.com/) - Movie database used to retreive information
 * [request](https://www.npmjs.com/package/request) - Used to make a https request
           
 * [Twitter](https://www.npmjs.com/package/twitter) - Retreive tweets
-* [file-system](https://www.npmjs.com/package/file-system) - Reading and writing to files.
+* [file-system](https://www.npmjs.com/package/file-system) - Reading and writing to files
 * [log4js](https://www.npmjs.com/package/log4js) - Logging data on the console and into log.txt
 
 
